@@ -1,0 +1,68 @@
+SiteID,Region,Name,Longitude,Latitude,E Coli
+HM2,Hamilton,Waipa at Whatawhata,175.1516454,-37.80034414,69
+WA1,Wanganui,Waitara at Bertrand Rd,174.2548673,-39.04966438,68
+GS2,Gisborne,Waikohu at No. 1 Br.,177.5614619,-38.41677638,67
+DN5,Dunedin,Mataura at Seaward Down,168.797037,-46.39109981,59
+WA4,Wanganui,Whanganui at Paetawa,175.1423112,-39.78864375,44
+HM1,Hamilton,Waipa at Otewa,175.3480585,-38.27048925,43
+HM5,Hamilton,Waihou at Te Aroha,175.706564,-37.54841789,41
+GS3,Gisborne,Motu at Waitangirua,177.6207925,-38.20150151,40
+GS1,Gisborne,Waipaoa at Kanakanaia,177.8816102,-38.4703121,38
+WA7,Wanganui,Manawatu at Weber Rd,176.1114838,-40.24225986,37
+WA9,Wanganui,Manawatu at Opiki Br.,175.4695424,-40.43710471,37
+WH2,Whangarei,Waitangi at Wakelins,174.0473578,-35.27815386,36
+WA8,Wanganui,Manawatu at Teachers Coll.,175.6239194,-40.37423442,36
+WH3,Whangarei,Mangakahia at Titoki Br.,174.05251,-35.73414414,35
+WA6,Wanganui,Rangitikei at Kakariki,175.444118,-40.12680338,35
+TU1,Turangi,Whanganui at Te Maire,175.1886879,-38.94427494,33
+WH4,Whangarei,Wairu at Purua,174.1505947,-35.6537364,32
+AK1,Auckland,Hoteo at Gubbs,174.5167757,-36.38708527,29
+AK2,Auckland,Rangitopuni at Walkers,174.6177164,-36.74608218,28
+HM6,Hamilton,Ohinemuri at Karangahake,175.715083,-37.41659142,28
+WA3,Wanganui,Waingongoro at SH45,174.2100716,-39.57808905,26
+WA2,Wanganui,Manganui at SH3,174.2615561,-39.28292805,23
+HM4,Hamilton,Waikato at Rangiriri,175.1313201,-37.43389143,23
+WN3,Wellington,Ruamahanga at Waihenga,175.4394258,-41.1971596,23
+GY2,Greymouth,Grey at Dobson,171.2977474,-42.45526028,21
+DN9,Dunedin,Waiau at Tuatapere,167.6857257,-46.13187464,21
+DN2,Dunedin,Sutton at SH87,170.0940294,-45.59783272,19
+TK2,Tekapo,Opihi at Rockwood,170.9415995,-44.16992472,19
+HV2,Havelock Nth,Tukituki at Red Br.,176.9268003,-39.71715618,17
+WA5,Wanganui,Rangitikei at Mangaweka,175.8079005,-39.81209364,17
+DN8,Dunedin,Oreti at Riverton HW Br.,168.2658533,-46.32784979,17
+CH2,Christchurch,Hurunui at SH1 Br.,173.0964716,-42.90013799,16
+DN4,Dunedin,Clutha at Balclutha,169.7478532,-46.23889062,16
+WN1,Wellington,Hutt at Boulcott,174.9219656,-41.19970592,15
+WH1,Whangarei,Waipapa at Forest Ranger,173.6879171,-35.27520455,15
+WN4,Wellington,Ruamahanga at Wardells,175.6713489,-41.00468332,14
+DN6,Dunedin,Mataura at Parawa,168.5611638,-45.5598632,14
+HV3,Havelock Nth,Ngaruroro at Chesterhope,176.8722386,-39.59819739,11
+GS4,Gisborne,Motu at Houpoto,177.6320592,-37.86546076,11
+RO2,Rotorua,Tarawera at Awakaponga,176.7668297,-37.94077098,11
+DN3,Dunedin,Taieri at Outram,170.243822,-45.84805474,11
+GY1,Greymouth,Buller at Te Kuha,171.6996819,-41.83666153,10
+DN1,Dunedin,Taieri at Tiroiti,170.2727477,-45.25818263,10
+HM3,Hamilton,Waikato at Hamilton Traffic Br.,175.2888866,-37.79398973,9
+GY3,Greymouth,Grey at Waipuna,171.7860208,-42.35617511,7
+NN1,Nelson,Motueka at Woodstock,172.8245826,-41.25156018,7
+HV5,Havelock Nth,Mohaka at Raupunga,177.1288534,-39.07533505,7
+NN5,Nelson,Buller at Longford,172.3865727,-41.76683803,7
+TK3,Tekapo,Opuha at Skipton Br.,170.9796325,-44.08056659,6
+RO4,Rotorua,Whirinaki at Galatea,176.7455255,-38.48615895,6
+HV6,Havelock Nth,Mohaka at Glenfalls,176.6345775,-39.17951716,6
+TK1,Tekapo,Opihi at Grassy Banks,171.2903816,-44.26379736,5
+RO5,Rotorua,Rangitaiki at Te Teko,176.7995602,-38.04158737,5
+CH4,Christchurch,Waimakariri above old HW Br.,172.6416309,-43.41896498,5
+DN7,Dunedin,Oreti at Lumsden,168.4280496,-45.71784803,5
+WN5,Wellington,Ruamahanga at SH2,175.6048351,-40.76387899,4
+RO3,Rotorua,Rangitaiki at Murupara,176.6971212,-38.45978401,4
+TU2,Turangi,Tongariro at Turangi,175.8128846,-38.9962824,3
+TK5,Tekapo,Hakataramea above MH Br.,170.4904637,-44.726449,3
+NN4,Nelson,Wairau at Tuamarina,173.9524671,-41.44049154,3
+AX3,Alexandra,Shotover at Bowens Peak,168.7149003,-44.9916064,3
+NN3,Nelson,Wairau at Dip Flat,172.922771,-41.898142,2
+CH3,Christchurch,Waimakariri at Gorge,172.0510607,-43.36069571,2
+AX4,Alexandra,Clutha at Millers Flat,169.4099758,-45.66636207,2
+HV1,Havelock Nth,Makaroro at Burnt Br.,176.3037667,-39.81963047,1
+AX1,Alexandra,Clutha at Luggate Br.,169.2799662,-44.73091966,1
+HV4,Havelock Nth,Ngaruroro at Kuripapango,176.3304027,-39.38169225,1
